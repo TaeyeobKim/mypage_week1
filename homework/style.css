@@ -1,0 +1,37 @@
+.container {
+    width: 300px;
+    height: 500px;
+    border: 1px solid  black;
+    border-radius: 25px;
+    margin: 0; 
+    overflow: hidden;
+    position: absolute;
+}
+
+.first-box {
+    height: 200px;
+    background-color: hotpink;
+}
+
+.rabbit {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: white;
+}
+
+.title-field {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    color: hotpink;
+    border-bottom: 10px;
+}
+
+.text-field {
+    margin: 0px 30px 0px 30px;
+    height: 190px;
+    border-top: 1px solid black;
+    overflow: scroll;
+}
